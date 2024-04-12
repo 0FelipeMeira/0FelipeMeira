@@ -1,6 +1,6 @@
 <div>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0felipemeira&layout=compact&theme=tokyonight">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=0felipemeira&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=0felipemeira&theme=tokyonight&hide_border=true&count_private=true"/>
 </div>
 
 <hr/>
